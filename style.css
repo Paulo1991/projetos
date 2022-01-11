@@ -14,12 +14,21 @@
 }
 .c1{
     background-color: cadetblue;
+    border-radius: 20px;
+    margin-left:5px;
+    margin-right: 5px;
 }
 .c2{
   background-color: darkred;
+  border-radius: 20px;
+  margin-left:5px;
+    margin-right: 5px;
 }
 .c3{
     background-color: darkgrey;
+    border-radius: 20px;
+    margin-left:5px;
+    margin-right: 5px;
 }
 .bg-footer {
     background-color:black;
